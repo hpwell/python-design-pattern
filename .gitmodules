@@ -1,0 +1,9 @@
+[submodule "python-structural-patterns"]
+	path = python-structural-patterns
+	url = https://github.com/hpwell/python-structural-patterns
+[submodule "python-behavioral-patterns"]
+	path = python-behavioral-patterns
+	url = https://github.com/hpwell/python-behavioral-patterns
+[submodule "python-creational-patterns"]
+	path = python-creational-patterns
+	url = https://github.com/hpwell/python-creational-patterns
